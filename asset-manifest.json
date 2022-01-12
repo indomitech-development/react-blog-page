@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a09b3cb2.css",
+    "main.js": "/static/js/main.89b36579.js",
+    "static/js/787.edd59a96.chunk.js": "/static/js/787.edd59a96.chunk.js",
+    "static/media/Component 1 – 1.png": "/static/media/Component 1 – 1.04d03aaaf64fe9269276.png",
+    "static/media/Rectangle 934.png": "/static/media/Rectangle 934.405b75837430173be22d.png",
+    "static/media/taxlogo.png": "/static/media/taxlogo.fdf2bfb66a2c838fbc4c.png",
+    "static/media/Team page-rafiki.png": "/static/media/Team page-rafiki.f2ee34cd93b9c0c1bb04.png",
+    "static/media/Ellipse 502.png": "/static/media/Ellipse 502.e0ea85076f7a6013cfa3.png",
+    "static/media/photo-1638263012911-5b08696a3631.jfif": "/static/media/photo-1638263012911-5b08696a3631.ef3c81f9aa9a4bf38b9f.jfif",
+    "static/media/Group 10344.png": "/static/media/Group 10344.db23a2b3427f0ca2e46f.png",
+    "static/media/Upload-pana.png": "/static/media/Upload-pana.d9c32d344796713c4a5a.png",
+    "static/media/Rectangle 1021.png": "/static/media/Rectangle 1021.cd543b24f397e951d435.png",
+    "static/media/Ellipse 500.png": "/static/media/Ellipse 500.3f829f1fd148138d1460.png",
+    "static/media/Ellipse 501.png": "/static/media/Ellipse 501.770663c0d1ff6975a4f6.png",
+    "static/media/logos.png": "/static/media/logos.7c0f9e56d63bd9a44f8a.png",
+    "static/media/149-1495517_crayon-logo-photo-crayon-software-logo-hd-png-removebg-preview.png": "/static/media/149-1495517_crayon-logo-photo-crayon-software-logo-hd-png-removebg-preview.a216a450e8654dee7c66.png",
+    "static/media/Mask Group 11.png": "/static/media/Mask Group 11.815e84b3081fc1d95d34.png",
+    "index.html": "/index.html",
+    "main.a09b3cb2.css.map": "/static/css/main.a09b3cb2.css.map",
+    "main.89b36579.js.map": "/static/js/main.89b36579.js.map",
+    "787.edd59a96.chunk.js.map": "/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09b3cb2.css",
+    "static/js/main.89b36579.js"
+  ]
+}
